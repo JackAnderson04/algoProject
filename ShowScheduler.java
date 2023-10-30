@@ -61,6 +61,10 @@ public class ShowScheduler {
         shows.add(scheduler.new Show("Show2", 1));
         shows.add(scheduler.new Show("Show3", 0));
         shows.add(scheduler.new Show("Show4", 2));
+        shows.add(scheduler.new Show("Show5", 2));
+        shows.add(scheduler.new Show("Show6", 1));
+        shows.add(scheduler.new Show("Show7", 0));
+        shows.add(scheduler.new Show("Show8", 1));
 
         List<Show> scheduled = scheduler.scheduleShows(shows, 10);
         for (Show show : scheduled) {
