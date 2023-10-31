@@ -7,7 +7,6 @@ public class FirstComeFirstServe {
 	
 	public static void main(String args[]) {
 		ArrayList<String> names = new ArrayList<String>();
-		//ArrayList<ArrayList<Integer>> listOfTimes = new ArrayList<ArrayList<Integer>>();
 		int[][] times = {{5, 4, 3}, {5, 5, 2}, {5, 4, 3}, {1, 6, 7}};
 		ArrayList<String> schedule = new ArrayList<String>();
 		schedule.add("0");
