@@ -88,13 +88,10 @@ public class mergeSort {
         ArrayList<String> final2 = new ArrayList<String>(n);
         
         for (int i = 0; i < n; ++i) {
-           //System.out.print(arr[i] + " ");
            int index = temp.indexOf(arr[i]);
-           //System.out.print(name2.get(index) + " ");
            final2.add(name2.get(index));
            temp.remove(index);
            name2.remove(index);
-        //System.out.println();
         }
         System.out.print(final2);
      }
