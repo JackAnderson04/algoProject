@@ -38,13 +38,11 @@ public class ShowScheduler {
             scheduledShows.add(highPriority.remove(0));
             highShowtimes--;
         }
-
         // Schedule shows from medium priority
         while (mediumShowtimes > 0 && !mediumPriority.isEmpty()) {
             scheduledShows.add(mediumPriority.remove(0));
             mediumShowtimes--;
         }
-
         // Schedule shows from low priority
         while (lowShowtimes > 0 && !lowPriority.isEmpty()) {
             scheduledShows.add(lowPriority.remove(0));

@@ -5,9 +5,9 @@ Ziggy Fuller-Engelmajer
 Sunday
 10:00am-11:00am
 Monday
-8:00am - 9:00am
+8:00am-9:00am
 Wednesday
-11:00am - 12:00pm
+11:00am-12:00pm
 
 Let's Get Real
 Katie Keise
@@ -117,7 +117,7 @@ Sunday
 Tuesday
 9:00am-10:00am
 Thursday
-2:00pm-03:00pm
+2:00pm-3:00pm
 
 The Modern Day Bards
 Daequan Harris
@@ -226,9 +226,9 @@ Henry Hopton
 Monday
 5:00pm-5:30pm
 Monday
-11:00am-12:00pm
+11:00am-11:30am
 Tuesday
-2:00pm-3:00pm
+2:00pm-2:30pm
 
 Sports with Puneet
 Puneet Saini
@@ -237,9 +237,9 @@ Puneet Saini
 Monday
 5:30pm-6:00pm
 Wednesday
-9:00am-10:00am
+9:00am-9:30am
 Thursday
-4:00pm-5:00pm
+4:00pm-4:30pm
 
 Two of us Riding Nowhere
 Skye O'Brian
@@ -248,9 +248,9 @@ Skye O'Brian
 Monday
 6:30pm-7:00pm
 Friday
-1:00pm-2:00pm
+1:00pm-1:30pm
 Saturday
-2:00pm-3:00pm
+2:00pm-2:30pm
 
 Hip-Hop Block
 Connor Baldwin
@@ -467,7 +467,7 @@ Clara Lebron
 1
 60
 Tuesday
-11:00pm-11:30pm
+11:00pm-12:00am
 Thursday
 2:00pm-3:00pm
 Saturday
@@ -649,9 +649,9 @@ Marlee Altenburg
 Thursday
 11:00am-11:30am
 Thursday
-1:00pm-2:00pm
+1:00pm-1:30pm
 Friday
-2:00pm-3:00pm
+2:00pm-2:30pm
 
 SoundingOutSofia
 Sofia Cortes
@@ -660,9 +660,9 @@ Sofia Cortes
 Thursday
 12:00pm-1:00pm
 Tuesday
-03:00pm-04:00pm
+3:00pm-4:00pm
 Wednesday
-12:00pm-01:00pm
+12:00pm-1:00pm
 
 The Wack Shack
 Malachy Madrigal
@@ -693,9 +693,9 @@ Mikey Samuelson
 Thursday
 3:00pm-3:30pm
 Wednesday
-2:00pm-3:00pm
+2:00pm-2:30pm
 Thursday
-3:00pm-4:00pm
+3:00pm-3:30pm
 
 Shake Shake Shake Sonora
 Sonora Vegas
@@ -704,9 +704,9 @@ Sonora Vegas
 Thursday
 3:30pm-4:00pm
 Monday
-10:00am-11:00am
+10:30am-11:00am
 Tuesday
-1:00pm-2:00pm
+1:30pm-2:00pm
 
 Static Addict
 Maxwell Schmitz
@@ -781,7 +781,7 @@ Oscar Messner
 Thursday
 10:00pm-11:00pm
 Friday
-09:00am-10:00am
+9:00am-10:00am
 Sunday
 4:00pm-5:00pm
 
@@ -958,7 +958,7 @@ Saturday
 Saturday
 8:00am-9:00am
 Friday
-03:00pm-04:00pm
+3:00pm-4:00pm
 
 The Lounge
 Zach Hernandez
@@ -969,7 +969,7 @@ Saturday
 Wednesday
 9:00am-10:00am
 Friday
-3:00pm-04:00pm
+3:00pm-4:00pm
 
 Shan's Safe Space
 Shannon Thompson
