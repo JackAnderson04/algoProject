@@ -11,27 +11,26 @@ public class lottery {
         Random random = new Random();
         ArrayList<Integer> finalOrder = new ArrayList<>();
 	    ArrayList<Integer> availableNumbers = new ArrayList<>();
-	    for (int i = 0; i <= n; i++) {
+	    for (int i = 0; i < n; i++) {
 	    	availableNumbers.add(i);
 	    }
 	    while (!availableNumbers.isEmpty()) {
 	    	int randomi = random.nextInt(availableNumbers.size());
 	        int selectedNumber = availableNumbers.remove(randomi);
-	            finalOrder.add(selectedNumber);
-	        }
-
+	        finalOrder.add(selectedNumber);
+	    }
 	        return finalOrder;
 	    }
 	public static String[] HashSchedule(ArrayList<Integer> Order, ArrayList<String> ShowNames){
 		int count = 1;
 		String[] schedule = new String[84];
-		for(int i = 0; i < Order.size(); i++) {
+		for(int i = 0; i < schedule.length; i++) {
 			int j = Order.get(i);
-			int key = j % 84; //8 to 8 7 days a week
+			int key = i % 84; //8 to 8 7 days a week
 			if (schedule[key] != null) {
 				while (schedule[key] != null) {
-					count +=1;
-					key+=1;
+					count += 1;
+					key += 1;
 					if (key > 83) {
 						key = 0;
 					}
@@ -130,7 +129,7 @@ public class lottery {
         	  finalShowString.add(temp);
         }
 		int size = finalShowString.size();
-	    ArrayList<Integer> Order = LotteryOrder(size - 1);
+	    ArrayList<Integer> Order = LotteryOrder(size);
 	    String[] schedule = HashSchedule(Order, finalShowString);
 	    String[] daysOfWeek = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
 	    System.out.println("Final Radio Schedule:  ");
@@ -168,4 +167,3 @@ public class lottery {
 	}
 }
 
-	
